@@ -1,2 +1,2 @@
-# Modelo de Markowitz usando matrices de correlación/covarianza para construir portafolios óptimos.
-¿Cómo construir un portafolio que maximice retorno y minimice riesgo usando relaciones estadísticas entre activos?
+# Análisis de la estructura de correlación y agrupamiento sectorial de acciones del S&P 500: una aproximación desde el aprendizaje no supervisado
+
