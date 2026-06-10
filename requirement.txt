@@ -1,0 +1,12 @@
+# Dependencias reales del notebook Base_de_datos_S_P_500.ipynb
+# google-colab viene preinstalado en Colab, no es necesario incluirla
+
+yfinance==0.2.66
+pandas==2.2.2
+numpy==2.0.2
+requests==2.32.4
+scikit-learn==1.6.1
+seaborn==0.13.2
+matplotlib==3.10.0
+scipy==1.16.3
+statsmodels==0.14.6
